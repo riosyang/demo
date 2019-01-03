@@ -26,7 +26,7 @@ public class StudentServiceImpl implements StudentService {
         Student student = new Student();
         student.setSex("女");
 <<<<<<< HEAD
-        student.setDepartment("这是一个测试1");
+        student.setDepartment("这是一1");
 =======
         student.setDepartment("测试haha");
 >>>>>>> refs/remotes/origin/master
