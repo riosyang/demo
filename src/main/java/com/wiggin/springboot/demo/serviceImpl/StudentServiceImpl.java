@@ -25,7 +25,7 @@ public class StudentServiceImpl implements StudentService {
     public Student queryById(int id) {
         Student student = new Student();
         student.setSex("女");
-        student.setDepartment("这是一个测试");
+        student.setDepartment("这是一个任务");
         student.setName("xdclass-wiggin");
         student.setBirth(new Date());
         return student;
